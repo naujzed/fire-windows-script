@@ -79,7 +79,7 @@ CALL :inst_add
 EXIT
 )
 
-set /p iyn= "Do you have the old firestick[y/n]?"
+set /p iyn= "Push to /storage/emulated/0/Download[y/n]?"
 cls
 echo Pushing ADD-ONS zips wait...
 
